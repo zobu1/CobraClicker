@@ -1,0 +1,2 @@
+# CobraClicker
+autoclicker
