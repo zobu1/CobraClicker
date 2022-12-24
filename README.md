@@ -1,2 +1,2 @@
 # CobraClicker
-autoclicker
+Autoclicker programmed in java
